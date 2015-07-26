@@ -1,7 +1,7 @@
 {
   "name": "atom-monokai-soda",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Converted from the original buymesoda theme using the TextMate Bundle Converter.",
   "keywords": [
     "syntax",
