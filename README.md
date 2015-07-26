@@ -1,5 +1,7 @@
 # atom-monokai-soda theme
 
-A short description of your theme.
+The original Soda dark theme from Ian Hill (http://buymeasoda.github.io/soda-theme/) converted for Atom using the TextMate bundle converter.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+I don't own it. I just converted it, because I wanted to use it in atom too. :)
+
+![A screenshot of your theme](https://raw.githubusercontent.com/0xSteph/atom-monokai-soda/master/screenshot.png)
