@@ -9,7 +9,7 @@
     "monokai soda",
     "atom soda"
   ],
-  "repository": "https://github.com/0xSteph/atom-monokai-soda",
+  "repository": "https://github.com/SH128/atom-monokai-soda",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
